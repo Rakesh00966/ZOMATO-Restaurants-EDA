@@ -1,4 +1,8 @@
-# 🍽️ Zomato Restaurants Bengaluru – Data Analysis  
+# 🍽️ Zomato Restaurants Bengaluru – Data Analysis 
+[Check my Zomato Analysis Notebook](https://github.com/Rakesh00966/ZOMATO-Restaurants-EDA/blob/main/Zomato-dataset-EDA.ipynb)
+
+[Check my Zomato Analysis Notebook Kaggle](https://www.kaggle.com/code/rakesh00966/zomato-dataset-cleaning)
+
 
 ## 📌 Project Overview  
 This project explores the **Zomato Bengaluru Restaurants Dataset**, which contains details about 50,000+ restaurants.  
